@@ -1,6 +1,6 @@
 package main
 
-import . "github.com/visionmedia/go-debug"
+import . "github.com/tj/go-debug"
 import "time"
 
 var debug = Debug("single")
